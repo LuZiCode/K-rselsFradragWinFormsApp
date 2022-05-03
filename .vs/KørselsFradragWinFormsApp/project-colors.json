@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f082c64c-3596-4280-8f98-8b0f36749db4": {
+      "ProjectGuid": "f082c64c-3596-4280-8f98-8b0f36749db4",
+      "DisplayName": "KørselsFradragWinFormsApp",
+      "ColorIndex": 0
+    },
+    "db78d1b3-99d9-4735-9bdc-dbfe04e5427f": {
+      "ProjectGuid": "db78d1b3-99d9-4735-9bdc-dbfe04e5427f",
+      "DisplayName": "KørselFradragTest",
+      "ColorIndex": 1
+    },
+    "91eb8cd4-36de-4166-8e79-0f95c9ef5974": {
+      "ProjectGuid": "91eb8cd4-36de-4166-8e79-0f95c9ef5974",
+      "DisplayName": "MyLibrary",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 3
+}
